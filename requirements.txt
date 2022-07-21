@@ -1,0 +1,9 @@
+torch
+wandb
+gym 
+stable_baselines3
+pyrfm
+git+https://github.com/neonnnnn/pyrfm.git
+sklearn
+Cython
+'mujoco-py<2.2,>=2.1'
